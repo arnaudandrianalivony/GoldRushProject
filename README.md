@@ -1,2 +1,2 @@
 # GoldRushProject
-Le personnage pssode une animation de course.
+Le personnage possède une animation de course.
